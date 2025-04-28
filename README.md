@@ -1,5 +1,9 @@
 # Task Manager API (Spring Boot Project)
 
+<p align="center">
+  <img src="./images/banner-task-manager-api.png" alt="Task Manager API Banner" />
+</p>
+
 ![Maven Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Java Version](https://img.shields.io/badge/java-21-blue)
 ![Spring Boot](https://img.shields.io/badge/spring--boot-3.2.4-brightgreen)
